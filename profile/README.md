@@ -6,4 +6,5 @@ This group works for the joint goal to provide an RCPSP algorithm for the Softwa
 
 ### Organization Guide:
 
+* [System Documentation](../docs/README.md)
 * Administarive requests or questions? [Ask the System Design Team](https://github.com/orgs/hft-rcpsp-scheduling/teams/system-desing)
