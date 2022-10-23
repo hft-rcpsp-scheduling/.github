@@ -10,6 +10,6 @@
 
 ![sd](component-interactions.png)
 
-## Scheduler Classes
+## Scheduler Basic Classes
 
 ![classes](scheduler-classes.png)
