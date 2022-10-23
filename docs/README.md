@@ -6,6 +6,10 @@
 
 ![bdd](component-structure.png)
 
-## Interactions
+## Component Interactions
 
 ![sd](component-interactions.png)
+
+## Scheduler Classes
+
+![classes](scheduler-classes.png)
