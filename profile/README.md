@@ -11,6 +11,6 @@ This group works for the joint goal to provide an RCPSP algorithm for the Softwa
 * [Project Progress Dashboard](https://github.com/orgs/hft-rcpsp-scheduling/projects/1)
 * [Team Description](https://github.com/orgs/hft-rcpsp-scheduling/teams)
 
-### Know more about Project
+### Know more about Project:
 
 * About [Data Provider](https://github.com/hft-rcpsp-scheduling/rcpsp-data-provider)
