@@ -8,5 +8,4 @@ This group works for the joint goal to provide an RCPSP algorithm for the Softwa
 
 * [System Documentation](https://github.com/hft-rcpsp-scheduling/.github/tree/main/models)
 * Need Member permissions? [Ask in this discussion!](https://github.com/hft-rcpsp-scheduling/.github/discussions/2)
-
-
+* Interested in the latest announcements? [Visit the discussions.](https://github.com/orgs/hft-rcpsp-scheduling/discussions/categories/announcements)
