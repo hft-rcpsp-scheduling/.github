@@ -2,13 +2,17 @@
 
 > Diagrams are created with [Star UML](https://staruml.io/download)
 
-## Components
+## Components v2
 
-![bdd](component-structure.png)
+([Component Diagram v1](component-structure.png))
 
-## Component Interactions
+![bdd](component-structure-v2.png)
 
-![sd](component-interactions.png)
+## Component Interactions v2
+
+([Sequence Diagram v1](component-interactions.png))
+
+![sd](component-interactions-v2.png)
 
 ## Scheduler Basic Classes
 
